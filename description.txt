@@ -1,0 +1,6 @@
+The goal of the tutorial is to introduce the most popular version control system that is git.
+During the presentation you will be familiarized with the basic concepts of the system.
+Firstly, I will intoduce the idea and architecture of system.
+Then I am going to say a few words about some commands and operations available to software users.
+Only basic aspects that are necesarry for newbies will be presented.
+I am going to conclude with essential pros and cons of using the system .
